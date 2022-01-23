@@ -18,6 +18,7 @@ The purpose of this analysis is to get a complete election audit which results w
 >**_The largest_ county** resulted to be!
 
 ![largest county](https://github.com/franciscomg90/ELECTION-ANALYSIS/blob/main/Resources/largest%20county.PNG)
+
 ![largest county code](https://github.com/franciscomg90/ELECTION-ANALYSIS/blob/main/Resources/county%20summary%20code.PNG)
 
 >**_Candidate votes segregation_** is as follows:
