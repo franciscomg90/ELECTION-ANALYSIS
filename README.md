@@ -13,7 +13,7 @@ The purpose of this analysis is to get a complete election audit which results w
 
 ![results_by_county](https://github.com/franciscomg90/ELECTION-ANALYSIS/blob/main/Resources/results%20by%20county.PNG)
 
-![code_by_county](https://github.com/franciscomg90/ELECTION-ANALYSIS/blob/main/Resources/county_code.png)
+![code_by_county]()
 
 >**_The largest_ county** resulted to be!
 
@@ -31,3 +31,10 @@ Code demostration:
 
 ![winner candidate](https://github.com/franciscomg90/ELECTION-ANALYSIS/blob/main/Resources/winner%20candidate.PNG)
 ## Election Audit Summary
+As a **business proposal** I would say this code could be perfectly be applied to any local election. As the code doesn't have any county or candidate name printed inside, it can be used to similar audit as long as the data provided CSV file have the same format, if not, **_I would propose_** new variables to find out where the candidate name and county column is located and input these variables in the row count calculation. 
+
+![row count](https://github.com/franciscomg90/ELECTION-ANALYSIS/blob/main/Resources/row%20count.PNG)
+
+As a **_second proposal**, it can be adapted to manage more data for each vote id as Gender, Age, Race or other demographic info by adding the same structure as the county and candidate and refactoring the code to make it more efficient
+
+![structure script](https://github.com/franciscomg90/ELECTION-ANALYSIS/blob/main/Resources/county_code.png)
