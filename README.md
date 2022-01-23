@@ -13,7 +13,7 @@ The purpose of this analysis is to get a complete election audit which results w
 
 ![results_by_county](https://github.com/franciscomg90/ELECTION-ANALYSIS/blob/main/Resources/results%20by%20county.PNG)
 
-![code_by_county]()
+![code_by_county](https://github.com/franciscomg90/ELECTION-ANALYSIS/blob/main/Resources/variables%20county.PNG)
 
 >**_The largest_ county** resulted to be!
 
