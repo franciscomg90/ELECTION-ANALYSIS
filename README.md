@@ -27,6 +27,7 @@ Code demostration:
 
 ![candidate segregation](https://github.com/franciscomg90/ELECTION-ANALYSIS/blob/main/Resources/candidate%20segregation.PNG)
 
-**_Winner Candidate_** resulted to be! 
+**_Winner Candidate_** resulted to be!
+
 ![winner candidate](https://github.com/franciscomg90/ELECTION-ANALYSIS/blob/main/Resources/winner%20candidate.PNG)
 ## Election Audit Summary
