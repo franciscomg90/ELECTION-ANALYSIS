@@ -12,6 +12,7 @@ The purpose of this analysis is to get a complete election audit which results w
 >County votes segregation was a bit more complicated since I needed to declare several variables through the code and calculate total  and percentage for each county, but as well as the total votes calc, "for" iterations works great for this purpose.
 
 ![results_by_county](https://github.com/franciscomg90/ELECTION-ANALYSIS/blob/main/Resources/results%20by%20county.PNG)
+
 ![code_by_county](https://github.com/franciscomg90/ELECTION-ANALYSIS/blob/main/Resources/county_code.png)
 
 >
