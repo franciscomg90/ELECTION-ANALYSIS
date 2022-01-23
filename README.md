@@ -15,9 +15,15 @@ The purpose of this analysis is to get a complete election audit which results w
 
 ![code_by_county](https://github.com/franciscomg90/ELECTION-ANALYSIS/blob/main/Resources/county_code.png)
 
->**_The largest_ county** resulted to be:
->
+>**_The largest_ county** resulted to be!
+
 ![largest county](https://github.com/franciscomg90/ELECTION-ANALYSIS/blob/main/Resources/largest%20county.PNG)
 ![largest county code](https://github.com/franciscomg90/ELECTION-ANALYSIS/blob/main/Resources/county%20summary%20code.PNG)
 
+>**_Candidate votes segregation_** is as follows:
+
+![candidate segregation](https://github.com/franciscomg90/ELECTION-ANALYSIS/blob/main/Resources/candidate%20segregation.PNG)
+
+**_Winner Candidate_** resulted to be! 
+![winner candidate](https://github.com/franciscomg90/ELECTION-ANALYSIS/blob/main/Resources/winner%20candidate.PNG)
 ## Election Audit Summary
