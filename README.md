@@ -31,7 +31,7 @@ Code demostration:
 
 ![winner candidate](https://github.com/franciscomg90/ELECTION-ANALYSIS/blob/main/Resources/winner%20candidate.PNG)
 ## Election Audit Summary
-As a **business proposal** I would say this code could be perfectly be applied to any local election. As the code doesn't have any county or candidate name printed inside, it can be used to similar audit as long as the data provided CSV file have the same format, if not, **_I would propose_** new variables to find out where the candidate name and county column is located and input these variables in the row count calculation. 
+As a **business proposal** I would say this code could be perfectly applied to any local election. As the code doesn't have any county or candidate name printed inside, it can be used to similar audit as long as the data provided CSV file have the same format, if not, **_I would propose_** new variables to find out where the candidate name and county column is located and input these variables in the row count calculation. 
 
 ![row count](https://github.com/franciscomg90/ELECTION-ANALYSIS/blob/main/Resources/row%20count.PNG)
 
